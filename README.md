@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=ML+Cornerstone;Model+Evaluation+%26+Explainability+Studio;End-to-End+AutoML+Pipeline" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=ML+Cornerstone+Project;Model+Evaluation+%26+Explainability+Studio;End-to-End+AutoML+Pipeline" alt="Typing SVG" />
 
 <br/>
 
