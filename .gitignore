@@ -35,6 +35,10 @@ ENV/
 *.onnx
 *.pt
 *.pth
+*.npz
+backend/data/artifacts/
+backend/data/uploads/
+backend/data/reports/
 
 # Frontend
 frontend/node_modules/
